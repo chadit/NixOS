@@ -1,2 +1,5 @@
 # NixOS
-my journey into setting up a NixOS system
+
+## Installation Steps to install NixOS and scripts as I learn things
+
+
